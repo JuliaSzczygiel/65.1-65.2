@@ -1,0 +1,2 @@
+65.1. MinUlamek: 1 225
+65.2. LiczNieskracalne 410
